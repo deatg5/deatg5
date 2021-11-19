@@ -6,8 +6,3 @@
 
 ## Self-Introduction
 yeah
-
-## Languages
-![Typescript](https://img.shields.io/badge/-Typescript-blue?style=for-the-badge) <br>
-![Javascript](https://img.shields.io/badge/-Javascript-blue?style=for-the-badge) <br>
-![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge) <br>
