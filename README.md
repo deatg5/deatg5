@@ -1,19 +1,13 @@
-### Hi there 👋
-
-<!--
-**deatg5/deatg5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# deatg
+![sueqkjs GitHub stats](https://github-readme-stats.vercel.app/api?username=deatg5&count_private=true&show_icons=true&theme=dracula)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deatg5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=deatg5&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## Self-Introduction
+yeah
+
+## Languages
+![Typescript](https://img.shields.io/badge/-Typescript-blue?style=for-the-badge) <br>
+![Javascript](https://img.shields.io/badge/-Javascript-blue?style=for-the-badge) <br>
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge) <br>
